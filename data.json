@@ -1,0 +1,99 @@
+{
+    "recentWorkflows": [
+      {
+        "name": "Document Review",
+        "workflow": "Review Process",
+        "stage": "Pending",
+        "updated": "2024-03-15",
+        "action": "View"
+      },
+      {
+        "name": "Budget Analysis",
+        "workflow": "Financial Assessment",
+        "stage": "In Progress",
+        "updated": "2024-03-16",
+        "action": "View"
+      },
+      {
+        "name": "Compliance Check",
+        "workflow": "Audit Verification",
+        "stage": "Completed",
+        "updated": "2024-03-18",
+        "action": "View"
+      },
+      {
+        "name": "Project Planning",
+        "workflow": "Initial Setup",
+        "stage": "Pending",
+        "updated": "2024-03-20",
+        "action": "View"
+      }
+    ],
+    "recentlyViewed": [
+      {
+        "name": "Project Proposal",
+        "uploaded": "2024-03-14",
+        "action": "View"
+      },
+      {
+        "name": "Market Research Report",
+        "uploaded": "2024-03-12",
+        "action": "View"
+      },
+      {
+        "name": "Technical Specification",
+        "uploaded": "2024-03-13",
+        "action": "View"
+      },
+      {
+        "name": "Feasibility Study",
+        "uploaded": "2024-03-10",
+        "action": "View"
+      }
+    ],
+    "recentlyCheckedOut": [
+      {
+        "name": "Financial Report",
+        "uploaded": "2024-03-11",
+        "action": "View"
+      },
+      {
+        "name": "Environmental Impact Analysis",
+        "uploaded": "2024-03-09",
+        "action": "View"
+      },
+      {
+        "name": "Client Agreement",
+        "uploaded": "2024-03-08",
+        "action": "View"
+      },
+      {
+        "name": "Policy Draft",
+        "uploaded": "2024-03-07",
+        "action": "View"
+      }
+    ],
+    "recentlyUploaded": [
+      {
+        "name": "Employee Handbook",
+        "uploaded": "2024-03-06",
+        "action": "View"
+      },
+      {
+        "name": "Annual Performance Report",
+        "uploaded": "2024-03-05",
+        "action": "View"
+      },
+      {
+        "name": "Safety Guidelines",
+        "uploaded": "2024-03-04",
+        "action": "View"
+      },
+      {
+        "name": "User Manual",
+        "uploaded": "2024-03-03",
+        "action": "View"
+      }
+    ]
+  }
+  
